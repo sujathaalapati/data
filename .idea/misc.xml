@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/sampleproject/app/src/main/res/drawable/select_button.xml" value="0.1" />
         <entry key="..\:/Users/Owner/AndroidStudioProjects/skeletonJitpackAndroid/app/src/main/res/drawable/btn_confirm_disabled.xml" value="0.17685185185185184" />
         <entry key="..\:/Users/Owner/AndroidStudioProjects/skeletonJitpackAndroid/app/src/main/res/drawable/confirm_button.xml" value="0.1" />
         <entry key="..\:/Users/Owner/AndroidStudioProjects/skeletonJitpackAndroid/app/src/main/res/drawable/loading_background.xml" value="0.17685185185185184" />
